@@ -22,7 +22,7 @@ Version Control: Git & GitHub
 
  التثبيت والتشغيل محليًا
  # استنساخ المستودع
-git clone [github.com](https://github.com/)[username]/vanirgroup.git
+git clone [github.com](https://github.com/)
 
 # دخول المجلد
 cd vanirgroup
