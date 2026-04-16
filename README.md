@@ -1,41 +1,43 @@
-vanir Group Website
-الموقع الرسمي لشركة Vanir Group — منصة تعكس هوية الشركة وتقدّم خدماتها بشكل احترافي وحديث.
- نظرة عامة
-تم تطوير موقع Vanir Group لتقديم تجربة مستخدم مميزة، مع واجهة أنيقة وسريعة الاستجابة تدعم مختلف الأجهزة.
-يركّز التصميم على الوضوح والاحترافية بما يتناسب مع طبيعة خدمات الشركة.
- التقنيات المستخدمة
-Frontend: Next.js / React
-Styling: Tailwind CSS / SCSS
-Build & Deploy: Vercel / Netlify
-Version Control: Git & GitHub
- هيكل المشروع
- vanirgroup-website/
-├── public/          # ملفات الصور والأصول الثابتة
-├── src/
-│   ├── components/  # المكونات القابلة لإعادة الاستخدام
-│   ├── pages/       # الصفحات (Home, About, Services, Contact...)
-│   ├── styles/      # ملفات التنسيق
-│   ├── lib/         # الأكواد المساعدة والإعدادات
-│   └── data/        # المحتوى النصي أو بيانات JSON
-├── package.json
-└── README.md
+# vanir-web
 
- التثبيت والتشغيل محليًا
- # استنساخ المستودع
-git clone [github.com](https://github.com/)
+## Git Clone URL
 
-# دخول المجلد
-cd vanirgroup
+To clone this repository, use the following command:
+```bash
+git clone https://github.com/ahmed12345877/vanir-web.git
+```
 
-# تثبيت الاعتمادات
-npm install
+## Folder Name
+The correct folder name is `vanir-web`.
 
-# تشغيل السيرفر المحلي
-npm run dev
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
 
-# بناء النسخة النهائية للإنتاج
-npm run build
+## Requirements
+- Requirement 1
+- Requirement 2
+- Requirement 3
 
-# اختبار النسخة المجمعة
-npm start
+## Environment Variables
+- `ENV_VAR_1`: Description
+- `ENV_VAR_2`: Description
 
+## Available Commands
+| Command | Description |
+| ------- | ----------- |
+| command1 | description1 |
+| command2 | description2 |
+
+## Contribution Guidelines
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact Information
+If you have any questions, feel free to contact me at support@vanirgroup.com
